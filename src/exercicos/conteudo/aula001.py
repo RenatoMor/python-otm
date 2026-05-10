@@ -1,4 +1,4 @@
-# Execícios realizado em: 10/05/2026
+# Execício realizado em: 10/05/2026
 """
 DocString
 E escrever o que eu

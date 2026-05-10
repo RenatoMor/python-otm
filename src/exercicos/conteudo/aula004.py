@@ -1,4 +1,4 @@
-# Exercícios realizados em: 10/05/2026
+# Exercicio Realizado em: 10-05-26
 
 # Tipos int e float
 # int -> Número inteiro
