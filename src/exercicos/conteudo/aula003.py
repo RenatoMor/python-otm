@@ -1,3 +1,5 @@
+# Execícios realizado em: 10/05/2026
+
 """
 DocString
 Python = Linguagem de programação
